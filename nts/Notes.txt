@@ -1,0 +1,11 @@
+Go 
+
+Interfaces :
+	An interface is an abstract type. 
+	An interface is created using the "type" keyword, followed by interface's name and keywork "interface". For eg
+
+	type User interface {
+		// some methods.
+	}
+
+	Every interface 
